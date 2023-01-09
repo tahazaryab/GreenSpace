@@ -12,3 +12,4 @@ Amidst the rising concern of climate change affecting species, including our own
 ## Future Improvements
 - Implement filter functionality for the main feed
 - Improve UI/UX design
+- Add more features
